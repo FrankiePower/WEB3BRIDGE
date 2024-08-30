@@ -68,7 +68,7 @@ contract StudentRecord {
             student.age = _age;
         }
 
-        if (bytes(_course).lenght > 0){
+        if (bytes(_course).length > 0){
             student.course = _course;
         }
 
