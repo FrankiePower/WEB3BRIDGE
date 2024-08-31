@@ -1,1 +1,0 @@
-# Staking Smart Contracts
